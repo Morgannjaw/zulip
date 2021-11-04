@@ -2759,7 +2759,7 @@ select.inline_select_topic_edit {
             right: 21px;
         }
     }
-    @media( max-height: 600px) {
+    @media (max-height: 600px) {
         .scrollMenu {
             overflow-y: scroll;
             height: calc(100vh - 100px);
