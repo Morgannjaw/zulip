@@ -57,8 +57,9 @@
     .poll-vote {
         color: hsl(156, 41%, 40%);
         border-color: hsl(156, 28%, 70%);
-        margin-right: 4px;
+        margin: 1.1px 3px 1.1px  0;
         background-color: hsl(0, 0%, 100%);
+        border-radius: 15%;
 
         &:hover {
             border-color: hsl(156, 30%, 50%);
@@ -72,7 +73,7 @@ button {
         width: 20px;
         background-color: transparent;
         border-color: hsl(156, 28%, 70%);
-        margin-right: 4px;
+        margin: -3px 2px 4px 0;
         border-radius: 3px;
 
         &:hover {
